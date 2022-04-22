@@ -16,5 +16,6 @@
 # se verifca el buen funcinamiento desde el movil
 # se modifica el buson de contatame 
 # se agrega los enlaces de las redes sociales
+# se cambia el titlle
 
 
